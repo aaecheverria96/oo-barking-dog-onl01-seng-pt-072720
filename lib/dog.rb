@@ -10,9 +10,9 @@ end
 
 def bark ("woof!")
   bark = "woof!"
-end 
-end 
-  
+end
+end
+
 
 fido = Dog.new
 fido.name = "Fido"
