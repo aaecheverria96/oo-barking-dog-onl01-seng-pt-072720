@@ -8,7 +8,7 @@ def name
   @this_dogs_name
 end
 
-def bark ("woof!")
+def bark (bark)
   bark = "woof!"
 end
 end
