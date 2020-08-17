@@ -9,10 +9,10 @@ def name
   puts "woof!"
 end
 
-def bark (sound) 
-  bark = sound 
-  puts "woof!" 
-end 
+def bark (sound)
+  bark = sound
+  puts "woof!"
+end
 end
 
 
