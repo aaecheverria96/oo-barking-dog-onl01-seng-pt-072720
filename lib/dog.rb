@@ -11,6 +11,7 @@ end
 def bark ("woof!")
   @bark = "woof!"
 end
+end 
 
 def bark
   @bark
