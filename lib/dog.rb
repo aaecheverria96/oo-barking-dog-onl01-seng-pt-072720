@@ -6,16 +6,11 @@ end
 
 def name
   @this_dogs_name
+  puts "woof!"
+end
 end
 
-def bark (sound)
-  bark = sound
-end
 
-def bark
-  bark = "woof!"
-  end
-end
 
 
 fido = Dog.new
