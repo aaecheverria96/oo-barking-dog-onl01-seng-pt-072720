@@ -9,14 +9,10 @@ def name
 end
 
 def bark ("woof!")
-  @bark = "woof!"
-end
-end
-
-def bark
-  @bark
-end
-end
+  bark = "woof!"
+end 
+end 
+  
 
 fido = Dog.new
 fido.name = "Fido"
