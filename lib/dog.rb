@@ -7,9 +7,18 @@ end
 def name
   @this_dogs_name
 end
-end
+
+def bark ("woof!")
+  @bark = "woof!"
+end 
+
+def bark 
+  @bark 
+end 
+end 
 
 fido = Dog.new
 fido.name = "Fido"
 
 puts fido.name
+
