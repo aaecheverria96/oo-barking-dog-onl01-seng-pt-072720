@@ -8,6 +8,11 @@ def name
   @this_dogs_name
   puts "woof!"
 end
+
+def bark (sound) 
+  bark = sound 
+  puts "woof!" 
+end 
 end
 
 
