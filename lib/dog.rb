@@ -7,20 +7,9 @@ end
 def name
   @this_dogs_name
 end
-
-def sound (noise)
-  @bark = noise
-
-end
-
-def sound
-  @bark = "woof!"
-end
 end
 
 fido = Dog.new
 fido.name = "Fido"
 
 puts fido.name
-
-fido.bark
