@@ -10,15 +10,14 @@ end
 
 def bark ("woof!")
   @bark = "woof!"
-end 
+end
 
-def bark 
-  @bark 
-end 
-end 
+def bark
+  @bark
+end
+end
 
 fido = Dog.new
 fido.name = "Fido"
 
 puts fido.name
-
