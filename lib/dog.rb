@@ -9,7 +9,7 @@ def name
 end
 
 def bark (sound)
-  sound = "woof!"
+  bark = "woof!"
 end
 end
 
